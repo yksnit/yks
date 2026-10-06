@@ -14,7 +14,15 @@
     "business-card",
     "cli"
   ],
-  "author": "Yash Kumar Sharma",
+  "author": "Yash Kumar Sharma <yks.nit@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yksnit/yks.git"
+  },
+  "homepage": "https://github.com/yksnit/yks#readme",
+  "bugs": {
+    "url": "https://github.com/yksnit/yks/issues"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
