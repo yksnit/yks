@@ -1,9 +1,9 @@
-# yks
+# yashkumarsharma
 
 My business card, right in your terminal.
 
 ```bash
-npx yks
+npx yashkumarsharma
 ```
 
 ```
@@ -32,7 +32,7 @@ npx yks
 
 Use the arrow keys (or `j`/`k`, or the number keys) to open a link in your browser or start an email. Press `q` or `Esc` to leave.
 
-It has no dependencies, so `npx` starts it instantly. It needs Node.js 14 or later. When the output is piped (`npx yks | cat`), it just prints the card. It also respects [`NO_COLOR`](https://no-color.org).
+It has no dependencies, so `npx` starts it instantly. It needs Node.js 14 or later. When the output is piped (`npx yashkumarsharma | cat`), it just prints the card. It also respects [`NO_COLOR`](https://no-color.org).
 
 ## Make your own
 

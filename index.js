@@ -3,7 +3,7 @@
 const readline = require("readline");
 const { spawn } = require("child_process");
 
-// Edit this object to change what `npx yks` prints.
+// Edit this object to change what `npx yashkumarsharma` prints.
 const details = {
   name: "Yash Kumar Sharma",
   bio: "",

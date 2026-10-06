@@ -1,9 +1,9 @@
 {
-  "name": "yks",
+  "name": "yashkumarsharma",
   "version": "1.0.0",
-  "description": "Yash Kumar Sharma's business card. Run `npx yks`.",
+  "description": "Yash Kumar Sharma's business card. Run `npx yashkumarsharma`.",
   "bin": {
-    "yks": "index.js"
+    "yashkumarsharma": "index.js"
   },
   "files": [
     "index.js"
