@@ -1,0 +1,22 @@
+{
+  "name": "yks",
+  "version": "1.0.0",
+  "description": "Yash Kumar Sharma's business card. Run `npx yks`.",
+  "bin": {
+    "yks": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "npx",
+    "card",
+    "business-card",
+    "cli"
+  ],
+  "author": "Yash Kumar Sharma",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
